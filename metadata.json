@@ -1,0 +1,6 @@
+{
+  "name": "Aegis — Emergency Response AI Platform",
+  "description": "AI-powered multi-agent emergency response coordination platform. From Emergency Detection to Intelligent Response — Faster, Safer, Smarter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
